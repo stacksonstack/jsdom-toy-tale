@@ -39,7 +39,7 @@ After all of that, the toy card should resemble:
     <h2>Woody</h2>
     <img src=toy_image_url class="toy-avatar" />
     <p>4 Likes </p>
-    <button class="like-btn">Like <3</button>
+    <button class="like-btn">Like <3 </button>
   </div>
 ```
 
